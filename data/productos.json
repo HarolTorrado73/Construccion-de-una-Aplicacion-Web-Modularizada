@@ -4,7 +4,14 @@
     "nombre": "Camiseta Oversize Básica",
     "precio": 25000,
     "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
-    "imagen": "imagenes/camiseta1.jpg"
+    "imagen": "imagenes/oversize1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta Oversize Básica",
+    "precio": 25000,
+    "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
+    "imagen": "imagenes/oversize2.png"
   },
   {
     "id": 2,
