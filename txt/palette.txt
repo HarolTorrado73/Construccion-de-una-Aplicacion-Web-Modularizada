@@ -1,0 +1,35 @@
+/* Coolors Exported  de el Palette - https://coolors.co/080705-40434e-702632-912f40-fffffa */
+
+- Tailwind
+
+{ 'black': { DEFAULT: '#080705', 100: '#020201', 200: '#040302', 300: '#060504', 400: '#080705', 500: '#080705', 600: '#463d2c', 700: '#837352', 800: '#b3a485', 900: '#d9d1c2' }, 'charcoal': { DEFAULT: '#40434e', 100: '#0d0d10', 200: '#1a1b1f', 300: '#27282f', 400: '#33363f', 500: '#40434e', 600: '#616677', 700: '#868b9c', 800: '#aeb1bd', 900: '#d7d8de' }, 'wine': { DEFAULT: '#702632', 100: '#16080a', 200: '#2c0f14', 300: '#42171e', 400: '#581e28', 500: '#702632', 600: '#a4384a', 700: '#c85d6f', 800: '#da939f', 900: '#edc9cf' }, 'cordovan': { DEFAULT: '#912f40', 100: '#1d090d', 200: '#3b131a', 300: '#581c26', 400: '#752633', 500: '#912f40', 600: '#c14056', 700: '#d17080', 800: '#e0a0aa', 900: '#f0cfd5' }, 'baby_powder': { DEFAULT: '#fffffa', 100: '#656500', 200: '#caca00', 300: '#ffff30', 400: '#ffff95', 500: '#fffffa', 600: '#fffffb', 700: '#fffffc', 800: '#fffffd', 900: '#fffffe' } }
+
+- CSV
+
+080705,40434e,702632,912f40,fffffa
+
+- With #
+
+#080705, #40434e, #702632, #912f40, #fffffa
+
+- Array
+
+["080705","40434e","702632","912f40","fffffa"]
+
+- Object
+
+{"Black":"080705","Charcoal":"40434e","Wine":"702632","Cordovan":"912f40","Baby powder":"fffffa"}
+
+- Extended Array
+
+[{"name":"Black","hex":"080705","rgb":[8,7,5],"cmyk":[0,12,37,97],"hsb":[40,38,3],"hsl":[40,23,3],"lab":[2,0,1]},{"name":"Charcoal","hex":"40434e","rgb":[64,67,78],"cmyk":[18,14,0,69],"hsb":[227,18,31],"hsl":[227,10,28],"lab":[29,1,-7]},{"name":"Wine","hex":"702632","rgb":[112,38,50],"cmyk":[0,66,55,56],"hsb":[350,66,44],"hsl":[350,49,29],"lab":[27,34,10]},{"name":"Cordovan","hex":"912f40","rgb":[145,47,64],"cmyk":[0,68,56,43],"hsb":[350,68,57],"hsl":[350,51,38],"lab":[35,42,13]},{"name":"Baby powder","hex":"fffffa","rgb":[255,255,250],"cmyk":[0,0,2,0],"hsb":[60,2,100],"hsl":[60,100,99],"lab":[100,-1,2]}]
+
+- XML
+
+<palette>
+  <color name="Black" hex="080705" r="8" g="7" b="5" />
+  <color name="Charcoal" hex="40434e" r="64" g="67" b="78" />
+  <color name="Wine" hex="702632" r="112" g="38" b="50" />
+  <color name="Cordovan" hex="912f40" r="145" g="47" b="64" />
+  <color name="Baby powder" hex="fffffa" r="255" g="255" b="250" />
+</palette>
