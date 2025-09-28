@@ -5,7 +5,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const errorMessage = document.getElementById('errorMessage');
 
     // Credenciales quemadas
-    if (username === 'admin' && password === '1234') {
+    if (username === 'admin' && password === "admin") {
         window.location.href = 'index.html';
     } else {
         errorMessage.textContent = 'Usuario o contraseña incorrectos.';

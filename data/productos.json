@@ -2,29 +2,144 @@
   {
     "id": 1,
     "nombre": "Camiseta Oversize Básica",
-    "precio": 25000,
+    "precio": 250000,
     "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
     "imagen": "imagenes/oversize1.png"
   },
+
   {
     "id": 2,
     "nombre": "Camiseta Oversize Básica",
-    "precio": 25000,
+    "precio": 240000,
     "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
     "imagen": "imagenes/oversize2.png"
-  },
-  {
-    "id": 2,
-    "nombre": "Pantalón Cargo Oversize",
-    "precio": 45000,
-    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
-    "imagen": "imagenes/pantalon1.jpg"
-  },
+  }, 
   {
     "id": 3,
+    "nombre": "Camiseta Oversize Básica",
+    "precio": 255000,
+    "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
+    "imagen": "imagenes/oversize3.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta Oversize Básica",
+    "precio": 245000,
+    "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
+    "imagen": "imagenes/oversize4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta Oversize Básica",
+    "precio": 250000,
+    "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
+    "imagen": "imagenes/oversize5.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 450000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon2.png"
+  },
+
+  {
+    "id": 7,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 455000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon2.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 440000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon3.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 445000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon4.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 455000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon5.png"
+  },
+  {
+    "id": 11,
     "nombre": "Sudadera Hoodie Oversize",
-    "precio": 35000,
+    "precio": 350000,
     "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
-    "imagen": "imagenes/sudadera1.jpg"
+    "imagen": "imagenes/saco1.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Sudadera Hoodie Oversize",
+    "precio": 345000,
+    "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
+    "imagen": "imagenes/saco2.png"
+  },
+  
+  {
+    "id": 13,
+    "nombre": "Sudadera Hoodie Oversize",
+    "precio": 340000,
+    "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
+    "imagen": "imagenes/saco3.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Sudadera Hoodie Oversize",
+    "precio": 300000,
+    "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
+    "imagen": "imagenes/saco4.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Sudadera Hoodie Oversize",
+    "precio": 350000,
+    "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
+    "imagen": "imagenes/saco5.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Gorras New Era de alta calidad",
+    "precio": 250000,
+    "descripcion": "Gorras New Era de alta calidad, perfectas para un look urbano.",
+    "imagen": "imagenes/gorra1.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Gorras New Era de alta calidad",
+    "precio": 255000,
+    "descripcion": "Gorras New Era de alta calidad, perfectas para un look urbano.",
+    "imagen": "imagenes/gorra2.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Gorras New Era de alta calidad",
+    "precio": 245000,
+    "descripcion": "Gorras New Era de alta calidad, perfectas para un look urbano.",
+    "imagen": "imagenes/gorra3.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Gorras New Era de alta calidad",
+    "precio": 250000,
+    "descripcion": "Gorras New Era de alta calidad, perfectas para un look urbano.",
+    "imagen": "imagenes/gorra4.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Gorras New Era de alta calidad",
+    "precio": 260000,
+    "descripcion": "Gorras New Era de alta calidad, perfectas para un look urbano.",
+    "imagen": "imagenes/gorra5.png"
   }
 ]
