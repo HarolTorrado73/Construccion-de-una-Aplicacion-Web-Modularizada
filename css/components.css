@@ -1,6 +1,4 @@
-/* Estilos para componentes */
 
-/* Header */
 header {
     background-color: #333;
     color: white;
@@ -14,13 +12,19 @@ header nav a {
     text-decoration: none;
 }
 
-/* Sidebar (menu) */
 #sidebar {
-    width: 200px;
+    width: 220px;
     background-color: #eee;
     padding: 10px;
     float: left;
     height: 100vh;
+    box-sizing: border-box;
+}
+
+main {
+    margin-left: 230px;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 #sidebar ul {
@@ -35,7 +39,7 @@ header nav a {
     padding: 5px 0;
 }
 
-/* Footer */
+/* footer */
 footer {
     background-color: #333;
     color: white;
