@@ -2,6 +2,7 @@
 #sidebar {
     position: relative;
     overflow: hidden;
+    background-color: var(--charcoal-500); /* Usando color de la paleta */
 }
 .logo-menu {
     position: absolute;
@@ -22,10 +23,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: var(--baby-powder-500); /* Usando color de la paleta */
+    color: var(--black-500); /* Usando color de la paleta */
 }
 
 main {
     padding: 20px;
+    background-color: var(--baby-powder-700); /* Ejemplo de variante */
 }
-
