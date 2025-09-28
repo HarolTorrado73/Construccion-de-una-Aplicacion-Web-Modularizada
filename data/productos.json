@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Oversize Básica",
+    "precio": 25000,
+    "descripcion": "Camiseta oversize de algodón, perfecta para un look casual y rebelde.",
+    "imagen": "imagenes/camiseta1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Pantalón Cargo Oversize",
+    "precio": 45000,
+    "descripcion": "Pantalón cargo amplio con múltiples bolsillos, ideal para aventuras urbanas.",
+    "imagen": "imagenes/pantalon1.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Sudadera Hoodie Oversize",
+    "precio": 35000,
+    "descripcion": "Sudadera con capucha oversize, cómoda y con estilo único.",
+    "imagen": "imagenes/sudadera1.jpg"
+  }
+]
