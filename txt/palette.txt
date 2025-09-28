@@ -1,4 +1,4 @@
-/* Coolors Exported  de Palette - https://coolors.co/080705-40434e-702632-912f40-fffffa */
+/* Coolors Exported  de el Palette - https://coolors.co/080705-40434e-702632-912f40-fffffa */
 
 - Tailwind
 
